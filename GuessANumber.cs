@@ -2,7 +2,7 @@
 
 namespace GuessANumber
 {
-    internal class Program
+    internal class GuessANumber
     {
         static void Main(string[] args)
         {
